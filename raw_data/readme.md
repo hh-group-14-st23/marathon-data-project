@@ -2,6 +2,11 @@
 ### aiquality_data_cleaned.csv
 - Air quality data for years 2016 to 2023, on the days when the Haspa marathon was held
 - Web source: https://www.umweltbundesamt.de/daten/luft/luftdaten
+
+### haspa_halbmarathon_results_extract.csv
+- Has half marathon results for years 2018, 2019, 2021, 2022 and 2023
+- Webscraped from: https://haspa-marathon-hamburg.de/ergebnisse/
+- However not used in the analysis
   
 ### haspa_marathon_2015_2017.csv
 - Has full marathon results for years 2015, 2016 and 2017
