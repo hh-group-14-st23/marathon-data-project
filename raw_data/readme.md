@@ -1,5 +1,5 @@
-# Files description:
-### aiquality_data_cleaned.csv
+# Files description
+### airquality_data_cleaned.csv
 - Air quality data for years 2016 to 2023, on the days when the Haspa marathon was held
 - Web source: https://www.umweltbundesamt.de/daten/luft/luftdaten
 
